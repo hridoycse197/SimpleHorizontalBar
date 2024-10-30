@@ -6,21 +6,21 @@ import 'model/data_model.dart';
 
 // Create a separate file for data models if necessary.
 
-class BarChart extends StatefulWidget {
+class SimpleBarChart extends StatefulWidget {
   final String title;
   final DataModel dataSet;
 
-  const BarChart({
+  const SimpleBarChart({
     Key? key,
     required this.title,
     required this.dataSet,
   }) : super(key: key);
 
   @override
-  _BarChartState createState() => _BarChartState();
+  _SimpleBarChartState createState() => _SimpleBarChartState();
 }
 
-class _BarChartState extends State<BarChart> {
+class _SimpleBarChartState extends State<SimpleBarChart> {
   int selectedBar = 0;
 
   @override
