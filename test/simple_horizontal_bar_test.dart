@@ -7,7 +7,6 @@ import 'package:simple_horizontal_bar/simple_horizontal_bar.dart';
 void main() {
   test('adds one to input values', () {
     final calculator = SimpleBarChart(
-      title: 'hello',
       dataSet: DataModel(
           showType: ShowType.value,
           padding: PaddingValue(bottom: 10, left: 10, right: 20, top: 5),
