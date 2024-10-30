@@ -13,6 +13,18 @@ A Flutter package that provides a customizable bar chart for visualizing data ea
 
 ## Getting Started
 
+## Screenshots
+
+Here are some screenshots of the package in action:
+
+### Example Bar Chart
+
+![Bar Chart Example](assets/Screenshot_1.png)
+
+### Another Example
+
+![Another Example](assets/Screenshot_2.png)
+
 ### Installation
 
 Add the following line to your `pubspec.yaml` file:
