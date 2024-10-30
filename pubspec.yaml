@@ -3,7 +3,7 @@ description: "For Showing Horizontal Bar of any Data set"
 version: 0.0.1
 author: Md Abdul kader <hridoycse.eng@gmail.com>
 homepage: https://your_package_homepage.com
-repository: https://github.com/your_github_repository
+repository: https://github.com/hridoycse197/SimpleHorizontalBar.git
 
 environment:
   sdk: ^3.5.3
